@@ -93,6 +93,7 @@ body {
 .list-horizontal {
   li {
     display: inline-block;
+    margin-right: 10px;
   }
 }
 
@@ -124,4 +125,26 @@ body {
   p {
     margin: 0 10px 0 0;
   }
+}
+
+/* Tag Sizes */
+
+.tag-size-1 {
+  font-size: 80%;
+}
+
+.tag-size-2 {
+  font-size: 100%;
+}
+
+.tag-size-3 {
+  font-size: 120%;
+}
+
+.tag-size-4 {
+  font-size: 140%;
+}
+
+.tag-size-5 {
+  font-size: 160%;
 }
